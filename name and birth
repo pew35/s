@@ -1,0 +1,3 @@
+name=input("What is your name?")
+year=input("When is your birth?")
+print("Hello", name,"from", year)
